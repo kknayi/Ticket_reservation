@@ -1,3 +1,6 @@
 # Ticket_reservation
 
-# 数据结构课程实践作业，初步实现了基于控制台的机票预订系统，不足之处还很多。
+# author: moujun
+# time: 2018.8.14
+# status: complete
+# description: data structure course practice assignments, which is a simple console-based ticket booking system, there are still many shortcomings.
