@@ -1,0 +1,9 @@
+﻿  main.cpp
+e:\computer_science\数据结构_实践作业\final_ data-structure_codes\final_ data-structure_codes\search_plane.h(184): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\computer_science\数据结构_实践作业\final_ data-structure_codes\final_ data-structure_codes\menu.h(26): warning C4129: “%”: 不可识别的字符转义序列
+e:\computer_science\数据结构_实践作业\final_ data-structure_codes\final_ data-structure_codes\recommend_plane.h(136): warning C4715: “place2int”: 不是所有的控件路径都返回值
+e:\computer_science\数据结构_实践作业\final_ data-structure_codes\final_ data-structure_codes\recommend_plane.h(160): warning C4715: “int2place”: 不是所有的控件路径都返回值
+e:\computer_science\数据结构_实践作业\final_ data-structure_codes\final_ data-structure_codes\menu.h(50): warning C4715: “TestUser”: 不是所有的控件路径都返回值
+e:\computer_science\数据结构_实践作业\final_ data-structure_codes\final_ data-structure_codes\menu.h(245): warning C4715: “Select_menu”: 不是所有的控件路径都返回值
+  Final_ data-structure_codes.vcxproj -> E:\Computer_Science\数据结构_实践作业\Final_ data-structure_codes\Debug\Final_ data-structure_codes.exe
+  Final_ data-structure_codes.vcxproj -> E:\Computer_Science\数据结构_实践作业\Final_ data-structure_codes\Debug\Final_ data-structure_codes.pdb (Full PDB)
